@@ -106,5 +106,3 @@ NULL
 * Génération de statistiques (temps d’attente moyen, nombre de véhicules).
 
 ---
-
-MIT License
